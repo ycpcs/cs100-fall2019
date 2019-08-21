@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>{{site.coursename}}: {{ page.title }}</title>
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/site.css" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" />
+	</head>
+
+	<body>
+		<div class="pageheader">
+			<h1><a href="{{ site.baseurl }}/">{{site.coursename}}</a>: {{ page.title }}</h1>
+		</div>
+		<div class="content">
+		{{ content }}
+		</div>
+
+		<div class="footer">
+			<a href="{{ site.baseurl }}/README.html">Copyright (c) 2007-2019</a> | Unless indicated otherwise, content is freely-redistributable |
+			<a class="cc-img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{site.baseurl}}/img/cc-by-sa-80x15.png" /></a>
+		</div>
+	</body>
+</html>
