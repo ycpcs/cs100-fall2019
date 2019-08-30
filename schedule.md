@@ -7,9 +7,14 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.
 
 
-> **Date**       | **Topic**                        |  **Assignments**   |
+> **Date**       | **Topic**                        |  **Due Date**   |
 > -------------- | -------------------------------- | ------------------ |
-> Wed, Aug 27    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
+> Tues, Aug 27   | [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
+> Thur, Aug 29   | [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
+> Tues, Sept 3   | [Lab Activity 1: Square Strategy](labs/CS100_Lab1.pdf)  | Sept 10 |  
+
+
+
 
 <!--
 >| Fri, Sept 21   |  [Variable and Expressions](lectures/lecture1_variables_expressions.pdf)      | [*Think Python*, Chapters 1-2](https://greenteapress.com/wp/think-python-2e/)    |
