@@ -9,6 +9,7 @@ This page links to lab activities.
 > Lab Activity                                               |        Date      |
 > ---------------------------------------------------------- | ---------------- |
 > [Lab Activity 1: Square Strategy](CS100_Lab1.pdf)          | **Tues, Sep 10** |
+> [Lab Activity 2: Pinwheel Strategy](CS100_Lab2.pdf)        | **Thur, Sep 12** |
 
 <!--
 > [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)        | **Wed, Sep 19** |

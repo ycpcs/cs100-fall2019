@@ -12,6 +12,7 @@ Additional content will be added as it becomes available throughout the semester
 > Tues, Aug 27   | [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
 > Thur, Aug 29   | [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
 > Tues, Sept 3   | [Lab Activity 1: Square Strategy](labs/CS100_Lab1.pdf)  | Sept 10 |  
+> Tues, Sept 10  | [Lab Activity 2: Pinwheel Strategy](labs/CS100_Lab2.pdf)  | Sept 12 |  
 
 
 
