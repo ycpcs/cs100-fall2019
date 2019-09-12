@@ -22,7 +22,7 @@ All information about the course will be posted here.
 * **August 27** - Welcome to York College Computer Science!
 * **Sept 10** - [Lab Activity 1](labs/CS100_Lab1.pdf) due
 * **Sept 12** - [Lab Activity 2](labs/CS100_Lab2.pdf) due
-* **Sept 17** - [Lab Activity 3](labs/CS100_Lab3.pdf) due
+* **Sept 19** - [Lab Activity 3](labs/CS100_Lab3.pdf) due
 
 <!--
 * **Sept 14** - [Lab Activity 1](labs/CPADS_Lab1.pdf) due

@@ -10,7 +10,7 @@ This page links to lab activities.
 > ---------------------------------------------------------- | ---------------- |
 > [Lab Activity 1: Square Strategy](CS100_Lab1.pdf)          | **Tues, Sep 10** |
 > [Lab Activity 2: Pinwheel Strategy](CS100_Lab2.pdf)        | **Thur, Sep 12** |
-> [Lab Activity 3: Pinwheel Implementation](CS100_Lab3.pdf)  | **Tues, Sep 17** |
+> [Lab Activity 3: Pinwheel Implementation](CS100_Lab3.pdf)  | **Thur, Sep 19** |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |
