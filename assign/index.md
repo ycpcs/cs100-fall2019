@@ -6,8 +6,9 @@ title: Assignments
 This page links to assignments.
 
 
-> Assignment                                                                             |     Due     |
-> -------------------------------------------------------------------------------------- | ----------- |
+> Assignment |     Due     |
+> ---------- | ----------- |
+> [Assignment 1: Computed Pinwheel](CS100_Assign1.pdf) | **Tues, Oct 1** |
 
 
 
