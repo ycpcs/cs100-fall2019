@@ -25,12 +25,10 @@ All information about the course will be posted here.
 * **Sept 19** - [Lab Activity 3](labs/CS100_Lab3.pdf) due
 * **Sept 25** - [Lab Activity 4](labs/CS100_Lab4.pdf) due
 * **Oct 1**   - [Assignment 1](assign/CS100_Assign1.pdf) due
+* **Oct 8   - EXAM I - Strategies**
+* **Oct 10   - EXAM I - Implementation**
 
 <!--
-* **Oct 3**  - [Lab Activity 4](labs/CPADS_Lab4.pdf) due
-* **Oct 12** - [Assignment 1](assign/CPADS_Assign1.pdf) due
-* **Oct 19   - EXAM I - Strategies**
-* **Oct 24   - EXAM I - Implementation**
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
 * **Oct 31** - [Lab Activity 6](labs/CPADS_Lab6.pdf) due
 * **Nov 2**  - [Lab Activity 7](labs/CPADS_Lab7.pdf) due
