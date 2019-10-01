@@ -12,6 +12,7 @@ This page links to lab activities.
 > [Lab Activity 2: Pinwheel Strategy](CS100_Lab2.pdf)        | **Thur, Sep 12** |
 > [Lab Activity 3: Pinwheel Implementation](CS100_Lab3.pdf)  | **Thur, Sep 19** |
 > [Lab Activity 4: Layer Cake Computation](CS100_Lab4.pdf)   | **Wed, Sep 25**  |
+> [Exam 1 Review](CS100_Exam1Review.pdf)                     | **Thur, Oct 3**  |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |
