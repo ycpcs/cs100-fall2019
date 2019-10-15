@@ -13,6 +13,7 @@ This page links to lab activities.
 > [Lab Activity 3: Pinwheel Implementation](CS100_Lab3.pdf)  | **Thur, Sep 19** |
 > [Lab Activity 4: Layer Cake Computation](CS100_Lab4.pdf)   | **Wed, Sep 25**  |
 > [Exam 1 Review](CS100_Exam1Review.pdf) <br /> [Exam 1 Review Strategy Solution](CS100_Exam1Review_Strategy.pdf) <br /> [Exam 1 Review Code Solution](CS100_Exam1Review_Code.py)                    | **Thur, Oct 3**  |
+> [Lab Activity 5: Pinwheel Functions](CS100_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)  | **Thur, Oct 24** |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |

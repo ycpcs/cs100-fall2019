@@ -27,6 +27,8 @@ All information about the course will be posted here.
 * **Oct 1**   - [Assignment 1](assign/CS100_Assign1.pdf) due
 * **Oct 8   - EXAM I - Strategies**
 * **Oct 10   - EXAM I - Implementation**
+* **Oct 15 - NO CLASS, FALL BREAK**
+* **Oct 24** - [Lab Activity 5](labs/CS100_Lab5.pdf) due
 
 <!--
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
