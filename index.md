@@ -29,6 +29,7 @@ All information about the course will be posted here.
 * **Oct 10   - EXAM I - Implementation**
 * **Oct 15 - NO CLASS, FALL BREAK**
 * **Oct 24** - [Lab Activity 5](labs/CS100_Lab5.pdf) due
+* **Oct 29** - [Lab Activity 6](labs/CS100_Lab6.pdf) due
 
 <!--
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
