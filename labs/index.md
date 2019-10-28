@@ -15,6 +15,7 @@ This page links to lab activities.
 > [Exam 1 Review](CS100_Exam1Review.pdf) <br /> [Exam 1 Review Strategy Solution](CS100_Exam1Review_Strategy.pdf) <br /> [Exam 1 Review Code Solution](CS100_Exam1Review_Code.py)                    | **Thur, Oct 3**  |
 > [Lab Activity 5: Pinwheel Functions](CS100_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)  | **Thur, Oct 24** |
 > [Lab Activity 6: Complex Layercake](CS100_Lab6.pdf) <br /> [complexCake.py](src/complexCake.py)  | **Tues, Oct 29** |
+> [Lab Activity 7: Loop Exercises](CS100_Lab7.pdf)           | **Thur, Oct 31** |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |
