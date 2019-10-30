@@ -24,7 +24,7 @@ Additional content will be added as it becomes available throughout the semester
 > Thur, Oct 17   |  [Functions](lectures/lecture3_functions.pdf) <br /> [Lab Activity 5: Pinwheel Functions](labs/CS100_Lab5.pdf) | [*Think Python*, Chapters 3](https://greenteapress.com/wp/think-python-2e/) <br /> Oct 24 |
 > Thur, Oct 24   | [Lab Activity 6: Complex Layercake](labs/CS100_Lab6.pdf)  | Oct 29 |  
 > Tues, Oct 29   |  [Iteration](lectures/lecture2_iteration.pdf) <br /> [Lab Activity 7: Loop Exercises](labs/CS100_Lab7.pdf)| [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/) <br /> Oct 31 |
-> Thur, Oct 31   | [Lab Activity 8: Pyramid](labs/CS100_Lab8.pdf)  | Nov 7 |  
+> Thur, Oct 31   | [Lab Activity 8: Pyramid](labs/CS100_Lab8.pdf)  | Nov 5 |  
 
 
 
