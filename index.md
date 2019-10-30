@@ -31,6 +31,7 @@ All information about the course will be posted here.
 * **Oct 24** - [Lab Activity 5](labs/CS100_Lab5.pdf) due
 * **Oct 29** - [Lab Activity 6](labs/CS100_Lab6.pdf) due
 * **Oct 31** - [Lab Activity 7](labs/CS100_Lab7.pdf) due
+* **Nov 7** - [Lab Activity 8](labs/CS100_Lab8.pdf) due
 
 <!--
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
