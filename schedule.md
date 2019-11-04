@@ -25,6 +25,7 @@ Additional content will be added as it becomes available throughout the semester
 > Thur, Oct 24   | [Lab Activity 6: Complex Layercake](labs/CS100_Lab6.pdf)  | Oct 29 |  
 > Tues, Oct 29   |  [Iteration](lectures/lecture2_iteration.pdf) <br /> [Lab Activity 7: Loop Exercises](labs/CS100_Lab7.pdf)| [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/) <br /> Oct 31 |
 > Thur, Oct 31   | [Lab Activity 8: Pyramid](labs/CS100_Lab8.pdf)  | Nov 5 |  
+> Tues, Nov 5    | [Decisions](lectures/lecture4_decisions.pdf) <br /> [Lab Activity 9: Decisions](labs/CS100_Lab8.pdf) <br /> [Assignment 2: Triangles](assign/CS100_Assign2.pdf)  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/) <br /> Nov 7 <br /> Nov 13 |  
 
 
 

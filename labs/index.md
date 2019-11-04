@@ -17,6 +17,7 @@ This page links to lab activities.
 > [Lab Activity 6: Complex Layercake](CS100_Lab6.pdf) <br /> [complexCake.py](src/complexCake.py)                         | **Tues, Oct 29** |
 > [Lab Activity 7: Loop Exercises](CS100_Lab7.pdf)           | **Thur, Oct 31** |
 > [Lab Activity 8: Pyramid](CS100_Lab8.pdf)                  | **Tues, Nov 5**  |
+> [Lab Activity 9: Decisions](CS100_Lab9.pdf)                | **Thur, Nov 7** |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |

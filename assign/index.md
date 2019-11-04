@@ -9,6 +9,7 @@ This page links to assignments.
 > Assignment |     Due     |
 > ---------- | ----------- |
 > [Assignment 1: Computed Pinwheel](CS100_Assign1.pdf) | **Tues, Oct 1** |
+> [Assignment 2: Triangles](CS100_Assign2.pdf) | **Wed, Nov 13** |
 
 
 
