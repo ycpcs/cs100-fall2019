@@ -18,6 +18,7 @@ This page links to lab activities.
 > [Lab Activity 7: Loop Exercises](CS100_Lab7.pdf)           | **Thur, Oct 31** |
 > [Lab Activity 8: Pyramid](CS100_Lab8.pdf)                  | **Tues, Nov 5**  |
 > [Lab Activity 9: Decisions](CS100_Lab9.pdf)                | **Thur, Nov 7** |
+> [Lab Activity 10: Conditional Iteration](CS100_Lab10.pdf)  | **Tues, Nov 12** |
 
 <!--
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |

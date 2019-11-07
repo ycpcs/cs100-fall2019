@@ -33,6 +33,7 @@ All information about the course will be posted here.
 * **Oct 31** - [Lab Activity 7](labs/CS100_Lab7.pdf) due
 * **Nov 5** - [Lab Activity 8](labs/CS100_Lab8.pdf) due
 * **Nov 7** - [Lab Activity 9](labs/CS100_Lab9.pdf) due
+* **Nov 12** - [Lab Activity 10](labs/CS100_Lab10.pdf) due
 * **Nov 13**   - [Assignment 2](assign/CS100_Assign2.pdf) due
 
 <!--
