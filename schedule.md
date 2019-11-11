@@ -27,6 +27,7 @@ Additional content will be added as it becomes available throughout the semester
 > Thur, Oct 31   | [Lab Activity 8: Pyramid](labs/CS100_Lab8.pdf)  | Nov 5 |  
 > Tues, Nov 5    | [Decisions](lectures/lecture4_decisions.pdf) <br /> [Lab Activity 9: Decisions](labs/CS100_Lab9.pdf) <br /> [Assignment 2: Triangles](assign/CS100_Assign2.pdf)  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/) <br /> Nov 7 <br /> Nov 13 |  
 > Thur, Nov 7    | [Decisions](lectures/lecture4_decisions.pdf) <br /> [Lab Activity 10: Conditional Iteration](labs/CS100_Lab10.pdf) | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/) <br /> Nov 12 |  
+> Tues, Nov 12   | [Lab Activity 11: Color Stack](labs/CS100_Lab11.pdf) | Nov 19 |  
 
 
 
