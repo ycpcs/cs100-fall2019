@@ -36,6 +36,9 @@ All information about the course will be posted here.
 * **Nov 12** - [Lab Activity 10](labs/CS100_Lab10.pdf) due
 * **Nov 13**   - [Assignment 2](assign/CS100_Assign2.pdf) due
 * **Nov 19** - [Lab Activity 11](labs/CS100_Lab11.pdf) due
+* **Dec 5    - EXAM 2 - Written**
+* **Dec 10**  - [Assignment 3](assign/CS100_Assign3.pdf) due for 120% credit
+* **Dec 12 (10:15-12:15)   - EXAM 2 - Programming**
 
 <!--
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
