@@ -10,7 +10,7 @@ This page links to assignments.
 > ---------- | ----------- |
 > [Assignment 1: Computed Pinwheel](CS100_Assign1.pdf) | **Tues, Oct 1** |
 > [Assignment 2: Triangles](CS100_Assign2.pdf) <br /> [triangles.py](src/triangles.py) | **Wed, Nov 13** |
-> [Assignment 3: Turtle Game](CS100_Assign2.pdf) <br /> [turtlegame.py](src/turtlegame.py) | **Tues, Dec 10** |
+> [Assignment 3: Turtle Game](CS100_Assign3.pdf) <br /> [turtlegame.py](src/turtlegame.py) | **Tues, Dec 10** |
 
 
 
